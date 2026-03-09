@@ -8,15 +8,25 @@ The assistant uses speech recognition to understand user commands and text-to-sp
 
 # Features:
 Voice command recognition,
+
 Text-to-speech responses,
+
 Google search through voice commands,
+
 Play music on YouTube and Spotify,
+
 Open websites like YouTube,
+
 Get current weather information,
+
 Wikipedia information retrieval,
+
 Send WhatsApp messages,
+
 Send emails using SMTP,
+
 Smart conversational replies,
+
 The system continuously listens for a wake word ("Alexa") before processing commands.
 
 
@@ -33,7 +43,11 @@ PyWhatKit
 
 # Working:
 The assistant waits for the wake word "Alexa".
+
 After activation, it listens for user commands.
+
 Speech is converted to text using the SpeechRecognition library.
+
 The command is processed and appropriate actions are performed.
+
 Responses are spoken using the text-to-speech engine.
