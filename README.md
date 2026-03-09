@@ -7,29 +7,28 @@ The assistant uses speech recognition to understand user commands and text-to-sp
 
 
 # Features:
-Voice command recognition
-Text-to-speech responses
-Google search through voice commands
-Play music on YouTube and Spotify
-Open websites like YouTube
-Get current weather information
-Wikipedia information retrieval
-Send WhatsApp messages
-Send emails using SMTP
-Smart conversational replies
+Voice command recognition,
+Text-to-speech responses,
+Google search through voice commands,
+Play music on YouTube and Spotify,
+Open websites like YouTube,
+Get current weather information,
+Wikipedia information retrieval,
+Send WhatsApp messages,
+Send emails using SMTP,
+Smart conversational replies,
 The system continuously listens for a wake word ("Alexa") before processing commands.
 
 
 # Technologies Used:
-Python
-SpeechRecognition
-Pyttsx3
-Requests
-Wikipedia API
-OpenWeather API
-SMTP Email Protocol
+Python,
+SpeechRecognition,
+Pyttsx3,
+Requests,
+Wikipedia API,
+OpenWeather API,
+SMTP Email Protocol,
 PyWhatKit
-
 
 
 # Working:
