@@ -1,0 +1,7 @@
+
+
+OPENAI_API_KEY = "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"
+WEATHER_API_KEY = "7033280d81aff28c07bce86278ecb760"
+EMAIL = "*********@gmail.com"
+EMAIL_PASSWORD = "*******"
+CITY = "Rajkot"
